@@ -1,7 +1,6 @@
 cask "gzyms" do
   version "0.0.1"
-  # Placeholder until the first release zip exists. Replace with `shasum -a 256 Gzyms-<version>.zip`.
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "61423b577ffbd943478ec17030a5ed642c6fdb0e158bff99a624155cdc37020e"
 
   url "https://github.com/zalewskigrzegorz/gzyms/releases/download/v#{version}/Gzyms-#{version}.zip"
   name "Gzyms"
