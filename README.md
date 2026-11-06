@@ -2,9 +2,7 @@
 
 Casks I ship myself.
 
-| Cask | What it is | Links |
-| --- | --- | --- |
-| `gzyms` | A status bar for macOS developers drowning in notifications | [gzyms.dev](https://gzyms.dev) · [repo](https://github.com/zalewskigrzegorz/gzyms) |
+**`gzyms`**: a status bar for macOS developers drowning in notifications. Site at [gzyms.dev](https://gzyms.dev), code in [zalewskigrzegorz/gzyms](https://github.com/zalewskigrzegorz/gzyms).
 
 ## Install
 
