@@ -1,6 +1,6 @@
 cask "gzyms" do
-  version "0.0.6"
-  sha256 "d30a075307eed57b9d74c21090c61ebab4bcad8975de9ca709a265a656862451"
+  version "0.1.0"
+  sha256 "1dab5527564d0e8a7404c6fdc80a5b62047d1eeb4d11b19f733d5a427f51f578"
 
   url "https://github.com/zalewskigrzegorz/gzyms/releases/download/v#{version}/Gzyms-#{version}.zip"
   name "Gzyms"
